@@ -36,4 +36,11 @@ Note: for running the code of image sticthing which is image_sticthing.py, you n
 
 
     Please contact me for any problem, at rsingh24@umd.edu
+    
+5) Output:
+Image for K mean custering:   ![alt text](https://github.com/Rish2911/Stitching-morphology-colour-segmentation-and-camera-calibration/blob/main/coloursegmentation_input_output/clustered_image.png) <br />
+Image for Morphology:
+![alt text](https://github.com/Rish2911/Stitching-morphology-colour-segmentation-and-camera-calibration/blob/main/morphology_input_output/opened_image.png)<br />
+Stitched Image: 
+![alt text](https://github.com/Rish2911/Stitching-morphology-colour-segmentation-and-camera-calibration/blob/main/stitching_input_output/output.png)<br />
 
