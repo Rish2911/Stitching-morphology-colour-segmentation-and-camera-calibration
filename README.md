@@ -9,7 +9,7 @@ Image for Stitching right:
 ![alt text](https://github.com/Rish2911/Stitching-morphology-colour-segmentation-and-camera-calibration/blob/main/stitching_input_output/right.png) <br />
 
 2) For running all the codes you need to create an environment first and then install the libraries.
-Note: for running the code of Q2 which is question2.py, you need to create a custom environment with opencv 3.4.2. in order to use SIFT. 
+Note: for running the code of image sticthing which is image_sticthing.py, you need to create a custom environment with opencv 3.4.2. in order to use SIFT. 
 3) Install required packages onto your virtual environment. Replace “myenv”with your environment name. 
   Enter the following commands in your terminal window. Press ‘y’ when prompted. 
   a. conda create -n myenv python=3.7
@@ -27,15 +27,13 @@ Note: for running the code of Q2 which is question2.py, you need to create a cus
 4) How to run the codes:
     a) After installing all the libraries, we are ready to run the codes. Codes are python script
 
-    Note: The code requires the testudo image named as 'test.png' and the tag video named as 'tag.mp4' in the same folder.
-
-    b) Problem  codes are in the file named 'question1.py' for question 1, 'question2.py' for question 2, 'question3.py' for question 3 and 'question4.py'        for question 4. Open the file, load your environment.
+    b) Problem  codes are in the file named 'morphology.py' for question 1, 'image_stitching.py' for question 2, 'camera_calibration.py' for question 3 and 'colour_segmentation.py' for question 4. Open the file, load your environment.
 
 
-    Sample Commands : python3 q1.py
+    Sample Commands : python3 morphology.py
+    
+    Please go through the project report named as rsingh24.pdf for more details.
 
-     Note: for running the code of stitching which is image_stitching.py, you need to create a custom environment with opencv 3.4.2. in order to use SIFT. 
 
-
-      Please contact me for any problem, at rsingh24@umd.edu
+    Please contact me for any problem, at rsingh24@umd.edu
 
