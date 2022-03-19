@@ -1,12 +1,11 @@
 1) Copy and paste all the files in the folder code (including input_output folders) and make that folder your working directory.
 
-Image for K mean custering: <br /> 
-![alt text](https://github.com/Rish2911/Stitching-morphology-colour-segmentation-and-camera-calibration/blob/main/coloursegmentation_input_output/Q4image.png) <br />
-Image for Morphology: <br />
+Image for K mean custering:   ![alt text](https://github.com/Rish2911/Stitching-morphology-colour-segmentation-and-camera-calibration/blob/main/coloursegmentation_input_output/Q4image.png) <br />
+Image for Morphology:
 ![alt text](https://github.com/Rish2911/Stitching-morphology-colour-segmentation-and-camera-calibration/blob/main/morphology_input_output/Q1image.png)<br />
-Image for Stitching left: <br />
+Image for Stitching left: 
 ![alt text](https://github.com/Rish2911/Stitching-morphology-colour-segmentation-and-camera-calibration/blob/main/stitching_input_output/left.png)<br />
-Image for Stitching left: <br />
+Image for Stitching right:
 ![alt text](https://github.com/Rish2911/Stitching-morphology-colour-segmentation-and-camera-calibration/blob/main/stitching_input_output/right.png) <br />
 
 2) For running all the codes you need to create an environment first and then install the libraries.
