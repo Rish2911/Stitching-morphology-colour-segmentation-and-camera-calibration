@@ -1,5 +1,8 @@
 1) Copy and paste all the files in the folder code (including input_output folders) and make that folder your working directory.
-2) For running all the codes you need to create an environment first and then install the libraries.
+2) Input images are below:
+K mean custering  ![alt text](https://github.com/Rish2911/Stitching-morphology-colour-segmentation-and-camera-calibration/blob/main/coloursegmentation_input_output/Q4image.png)
+
+4) For running all the codes you need to create an environment first and then install the libraries.
 Note: for running the code of Q2 which is question2.py, you need to create a custom environment with opencv 3.4.2. in order to use SIFT. 
 Install required packages onto your virtual environment. Replace “myenv”with your environment name. 
 Enter the following commands in your terminal window. Press ‘y’ when prompted. 
@@ -13,7 +16,7 @@ g. (optional) conda install spyder=4.2.0
 h. (optional) spyder
 i. pip3 install sympy 
 
-![alt text](https://github.com/Rish2911/Stitching-morphology-colour-segmentation-and-camera-calibration/blob/main/coloursegmentation_input_output/Q4image.png)
+
 
 How to run the codes:
 After installing all the libraries, we are ready to run the codes. Codes are python script
