@@ -1,5 +1,5 @@
-Just copy and paste all the files in the folder code (including image folders named as Q1, Q2, and Q4) and make that folder your working directory.
-For running all the codes you need to create an environment first and then install the libraries.
+1) Copy and paste all the files in the folder code (including input_output folders) and make that folder your working directory.
+2) For running all the codes you need to create an environment first and then install the libraries.
 Note: for running the code of Q2 which is question2.py, you need to create a custom environment with opencv 3.4.2. in order to use SIFT. 
 Install required packages onto your virtual environment. Replace “myenv”with your environment name. 
 Enter the following commands in your terminal window. Press ‘y’ when prompted. 
