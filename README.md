@@ -13,6 +13,7 @@ g. (optional) conda install spyder=4.2.0
 h. (optional) spyder
 i. pip3 install sympy 
 
+![alt text](https://github.com/Rish2911/Stitching-morphology-colour-segmentation-and-camera-calibration/blob/main/coloursegmentation_input_output/Q4image.png)
 
 How to run the codes:
 After installing all the libraries, we are ready to run the codes. Codes are python script
